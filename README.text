@@ -1,0 +1,15 @@
+PROJECT DETAILS:
+Title: Free Online Hotel Booking system
+Domain: Web technology
+Front-end: PHP script language
+Back-end: MySql database
+
+
+Basic online hotel booking system’s module pages are,
+
+Separate Administration section,
+Calendar for date availability,
+Check Rooms,
+Room reservation,
+Payment Details,
+Special offers
